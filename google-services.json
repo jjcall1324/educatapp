@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610596188690",
+    "project_id": "andriod1fc",
+    "storage_bucket": "andriod1fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610596188690:android:a8c645f03da00e677b1ecb",
+        "android_client_info": {
+          "package_name": "com.example.educatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610596188690-ft0j6hp7a6j1547mhnbp72m58gu5asu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkIfnUPQ3gh7Jwx_oZxkcVHO8OzeM-rIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610596188690-ft0j6hp7a6j1547mhnbp72m58gu5asu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
